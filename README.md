@@ -60,10 +60,6 @@ This project performs an exploratory data analysis (EDA) and statistical evaluat
    jupyter notebook notebooks/exploratory_analysis.ipynb
    ```
 
-## Key Findings & Visualizations
-* **Finding 1:** *[Replace with a brief summary of your primary insight]*
-* **Finding 2:** *[Replace with a brief summary of your secondary insight]*
-* **Finding 3:** *[Replace with a brief summary of correlations or anomalies found]*
 
 ## Technologies Used
 * **Data Manipulation:** Pandas, NumPy
